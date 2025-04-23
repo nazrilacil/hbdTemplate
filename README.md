@@ -2,7 +2,7 @@ Happy Birthday
 
 A Happy Birthday animation design in CSS3, HTML5.
 
-URL: http://cilboy04/hbdzahra.github.io/birthday/
+URL: <a href="https://nazrilacil/hbdTemplate.github.io/"><strong>➥ Try it now</strong></a>
 
 Technology Used: HTML5 CSS3 jQuery  GNU/Linux Digital Ocean as VPS GIMP
 
